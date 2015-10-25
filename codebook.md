@@ -47,4 +47,6 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
+The aggregated tidy data contain the the average of each variable for each activity and each subject
+
 Check the README.md file for further details about the analysis done. 
